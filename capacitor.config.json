@@ -1,0 +1,10 @@
+{
+  "appId": "com.signalprof.app",
+  "appName": "SIGNAL PROF",
+  "webDir": "www",
+  "server": {
+    "url": "https://signal-prof-proxy.roozbeh-didehvar.workers.dev/dashboard",
+    "cleartext": false
+  },
+  "android": { "backgroundColor": "#0b0e14" }
+}
